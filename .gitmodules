@@ -1,0 +1,3 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:TriWahyuni96/belajar-git-submodule.git
